@@ -27,6 +27,9 @@ STEPin management systems provide many benefits to Companys and institutions, mo
 4. Modify Record.
 5. Delect Record.
 6. Exit
+![image](https://user-images.githubusercontent.com/80456316/115010860-8c0acd80-9ecb-11eb-8d89-d7f5a385f7db.png)
+
+
 
 
 ## Defining Our System
@@ -36,7 +39,9 @@ STEPin management systems provide many benefits to Companys and institutions, mo
     * Student Managment System
     * Employee Managment System
 
-![Description](    )
+![Description](    )![image](https://user-images.githubusercontent.com/80456316/115010264-d475bb80-9eca-11eb-8cdf-a3f08204c23e.png)
+
+
 
 ### Explanation:
 * ### STEPin management system Application have few inbuilt features like:
@@ -48,7 +53,8 @@ STEPin management systems provide many benefits to Companys and institutions, mo
     * View Candidate from file 
 
 ## SWOT ANALYSIS
-![SWOT Analysis](   )
+![SWOT Analysis]![image](https://user-images.githubusercontent.com/80456316/115008843-3f25f780-9ec9-11eb-9b3b-5bbe4514a72d.png)
+
 
 # 4W&#39;s and 1&#39;H
 
