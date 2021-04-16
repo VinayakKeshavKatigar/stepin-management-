@@ -48,7 +48,7 @@ STEPin management systems provide many benefits to Companys and institutions, mo
     * View Candidate from file 
 
 ## SWOT ANALYSIS
-![SWOT Analysis](   )
+![SWOT Analysis]( https://github.com/VinayakKeshavKatigar/stepin-management-/blob/main/1_Requirement/swot%20analysis.jpg  )
 
 # 4W&#39;s and 1&#39;H
 
