@@ -1,3 +1,5 @@
+[![C/C++ CI](https://github.com/VinayakKeshavKatigar/stepin-management-/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/VinayakKeshavKatigar/stepin-management-/actions/workflows/main.yml)
+
 # stepin-management-
 
 A STEPin management system (also known as a Candidate information system ) helps company's manage data, and get information. A stepin Managment system generates and uses a large amount of data. This data must be communicated appropriately to Candidates, and faculty. A STEPin management system helps comapany to store, manage, and distribute this information.
