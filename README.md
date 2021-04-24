@@ -1,4 +1,5 @@
 [![C/C++ CI](https://github.com/VinayakKeshavKatigar/stepin-management-/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/VinayakKeshavKatigar/stepin-management-/actions/workflows/main.yml)
+[![C/C++ CI](https://github.com/VinayakKeshavKatigar/stepin-management-/actions/workflows/main.yml/badge.svg)](https://github.com/VinayakKeshavKatigar/stepin-management-/actions/workflows/main.yml)
 
 # stepin-management-
 
