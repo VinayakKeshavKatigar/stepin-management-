@@ -1,5 +1,4 @@
-name: C/C++ CI - Build Status
-
+name: Build
 on:
   push:
     branches: [ main ]
